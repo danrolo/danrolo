@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello, I am Daniel 👋
 
 - 🔭 I am currently working on my bachelor's thesis.
 - 🌱 I am currently learning about JavaScript and Python.
@@ -10,3 +10,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Check out my pinned projects
+I have worked on collaborative projects such as:
+- Developing a To do app using HTML, CSS, and JavaScript. 👉 trabucoaluca/To-Do-List
+- Developing an API for museum reservations using Node.js, Express, and MySQL. 👉 damianSM1997/proyectoFinalBedu
